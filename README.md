@@ -1,2 +1,3 @@
 # mxzn-frontend
-mxzn-frontend
+
+mxzn-frontend mxzn
