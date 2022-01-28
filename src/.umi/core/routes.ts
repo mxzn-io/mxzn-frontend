@@ -79,7 +79,7 @@ export function getRoutes() {
               "locale": "en-US",
               "order": null,
               "filePath": "README.md",
-              "updatedTime": 1640599559000,
+              "updatedTime": 1642667976000,
               "slugs": [
                 {
                   "depth": 1,

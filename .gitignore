@@ -108,3 +108,6 @@ dist
 
 # UMI
 src/.umi
+
+# vscode
+.vscode
